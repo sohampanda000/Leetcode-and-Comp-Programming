@@ -9,3 +9,4 @@ class Solution:
         nums.sort(key=custom_sort)
 
         return nums
+
