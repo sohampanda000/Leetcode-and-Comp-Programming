@@ -8,3 +8,4 @@ class Solution:
             elif operation == "--X" or operation == "X--":
                 X -= 1
         return X
+
