@@ -9,3 +9,4 @@ class Solution:
 
         divisor = math.gcd(s1, s2)
         return str1[0:divisor]
+
