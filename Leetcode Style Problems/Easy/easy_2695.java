@@ -13,3 +13,4 @@ ArrayWrapper.prototype.valueOf = function() {
 ArrayWrapper.prototype.toString = function() {
   return "[" + this.array.join(",") + "]";
 };
+
