@@ -7,3 +7,4 @@ public class Solution {
             return 2 * n;
     }
 }
+
