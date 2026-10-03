@@ -25,3 +25,4 @@ public class Main {
         return Character.toLowerCase(s.charAt(n));
     }
 }
+
