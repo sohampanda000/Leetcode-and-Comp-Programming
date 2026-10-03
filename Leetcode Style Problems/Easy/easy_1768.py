@@ -23,3 +23,4 @@ class Solution(object):
                 p2 += 1
 
         return "".join(letters)
+
