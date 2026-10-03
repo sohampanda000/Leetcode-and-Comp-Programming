@@ -9,3 +9,4 @@ public class Solution {
         return sum.toString(2);
     }
 }
+
