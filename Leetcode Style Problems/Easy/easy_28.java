@@ -4,3 +4,4 @@ public class Solution {
         return haystack.indexOf(needle);
     }
 }
+
