@@ -17,3 +17,4 @@ public class WordCapitalization {
         sc.close();
     }
 }
+
