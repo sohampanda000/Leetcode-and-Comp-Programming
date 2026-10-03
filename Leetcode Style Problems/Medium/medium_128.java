@@ -30,3 +30,4 @@ public class Solution {
         return Math.max(maxCounter, currentCounter);
     }
 }
+
