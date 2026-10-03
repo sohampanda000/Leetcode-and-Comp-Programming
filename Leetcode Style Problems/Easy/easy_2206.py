@@ -6,3 +6,4 @@ class Solution:
             if c % 2 != 0:
                 return False
         return True
+
