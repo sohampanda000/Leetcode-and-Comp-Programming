@@ -1,4 +1,4 @@
-// 50. Pow(x, n) [there is one damn test case that doesn't work (305/306 -> Time Limit Exceeded)]
+// 50. Pow(x, n) [there is one test case that doesn't work (305/306 -> Time Limit Exceeded)]
 public class Solution {
     public double myPow(double x, int n) {
         double val = 1;
