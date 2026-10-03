@@ -23,3 +23,4 @@ public class Solution {
         return elementPresent(newNums, newNums.length);
     }
 }
+
