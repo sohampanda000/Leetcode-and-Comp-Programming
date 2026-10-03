@@ -4,3 +4,4 @@ public class Solution {
         return num + 2 * t;
     }
 }
+
