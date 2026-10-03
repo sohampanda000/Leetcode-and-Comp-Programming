@@ -18,3 +18,4 @@ var debounce = function (fn, t = 1000) {
  * log('Hello'); // cancelled
  * log('Hello'); // Logged at t=100ms
  */
+
