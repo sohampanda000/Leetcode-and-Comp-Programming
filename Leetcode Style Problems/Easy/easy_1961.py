@@ -11,3 +11,4 @@ class Solution(object):
                 return True
             if len(prefix) > len(s):
                 return False
+
