@@ -6,3 +6,4 @@ class Solution(object):
         :rtype: str
         """
         return command.replace("()", "o").replace("(al)", "al")
+
