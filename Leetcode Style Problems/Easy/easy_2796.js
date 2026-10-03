@@ -10,3 +10,4 @@ String.prototype.replicate = function(times) {
     }
     return result;
 }
+
