@@ -37,3 +37,4 @@ class Solution(object):
         :type password: str
         :rtype: int
         """
+
