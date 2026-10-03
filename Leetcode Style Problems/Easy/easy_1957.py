@@ -10,3 +10,4 @@ class Solution(object):
                 result.append(s[i])
         
         return ''.join(result)
+
