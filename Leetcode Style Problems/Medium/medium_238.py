@@ -15,3 +15,4 @@ class Solution:
             suffix *= nums[j]
             
         return answer
+
