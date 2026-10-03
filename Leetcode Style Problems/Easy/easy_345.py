@@ -24,3 +24,4 @@ class Solution:
         lower = letter.lower()
         if lower == "a" or lower == "e" or lower == "i" or lower == "o" or lower == "u":
             return True
+
