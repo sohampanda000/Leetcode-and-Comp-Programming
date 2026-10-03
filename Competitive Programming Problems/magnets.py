@@ -15,3 +15,4 @@ for i in range(len(magnets) - 1):
         groups += 1
  
 print(groups)
+
